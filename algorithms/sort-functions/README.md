@@ -28,4 +28,4 @@ C++
 
 ## Purpose
 
-This project was developed as part of my Computer Science coursework at City College of San Francisco to practice implementing fundamental algorithms.
+This project was developed as part of my Computer Science coursework at City College of San Francisco to practice implementing fundamental algorithms.git status
