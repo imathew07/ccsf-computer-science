@@ -1,31 +1,37 @@
-# Sorting Functions
+# Sorting Algorithms Analysis
 
-Implementation of different sorting algorithms written in C++.
+A C++ program that implements and compares multiple sorting algorithms by measuring array accesses.
 
 ## Description
 
-This project contains different sorting functions used to organize data collections and practice algorithm implementation.
+This project implements three different sorting algorithms and analyzes their performance by counting the number of array accesses during execution.
+
+The algorithms are tested with different input sizes and multiple trials to calculate average access counts.
+
+## Algorithms Implemented
+
+- Insertion Sort
+- Merge Sort
+- Counting Sort
 
 ## Features
 
-- Implement sorting algorithms
-- Compare different sorting approaches
-- Sort arrays of values
-- Display sorted results
+- Generate random input arrays
+- Sort arrays using different algorithms
+- Count array read and write operations
+- Run multiple trials for comparison
+- Calculate average operation counts
 
 ## Concepts Practiced
 
 - Sorting algorithms
-- Arrays
-- Functions
-- Loops
-- Algorithm efficiency
+- Algorithm analysis
 - Time complexity
+- Divide and conquer
+- Recursion
+- Performance measurement
+- Arrays
 
 ## Language
 
 C++
-
-## Purpose
-
-This project was developed as part of my Computer Science coursework at City College of San Francisco to practice implementing fundamental algorithms.git status

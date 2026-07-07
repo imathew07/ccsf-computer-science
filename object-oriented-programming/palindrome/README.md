@@ -1,30 +1,31 @@
-# Palindrome Checker
+# Palindrome Checker Using Stack and Queue
 
-A C++ program that determines whether a string is a palindrome.
+A C++ program that checks whether a string is a palindrome using stack and queue data structures.
 
 ## Description
 
-This project checks if a word or sequence reads the same forward and backward by comparing characters and applying logical problem-solving techniques.
+This project determines whether a string reads the same forward and backward by storing characters in both a stack and a queue.
+
+The stack follows a Last-In-First-Out (LIFO) structure, while the queue follows a First-In-First-Out (FIFO) structure. By comparing the characters removed from each structure, the program can determine if the string is a palindrome.
 
 ## Features
 
 - Check if a string is a palindrome
-- Compare characters from different positions
-- Handle string manipulation
+- Store characters using a stack and queue
+- Compare elements from both data structures
+- Handle precondition violations when structures exceed capacity
+- Test multiple input cases
 
 ## Concepts Practiced
 
-- Strings
-- Conditional statements
-- Loops
+- Stacks
+- Queues
+- Abstract data types
+- LIFO and FIFO concepts
+- Exception handling
 - Functions
 - Problem solving
-- Recursion (if implemented)
 
 ## Language
 
 C++
-
-## Purpose
-
-This project was developed as part of my Computer Science coursework at City College of San Francisco to practice string manipulation and algorithmic thinking.git status

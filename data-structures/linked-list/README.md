@@ -1,33 +1,32 @@
 # Linked List Implementation
 
-A linked list data structure implementation written in C++.
+A C++ implementation and test program for a linked-based list data structure.
 
 ## Description
 
-This project implements a linked list from scratch, including basic operations for managing nodes and storing data dynamically.
+This project demonstrates the use of a linked list abstract data type (ADT) by creating, modifying, displaying, and reversing a list of elements.
+
+The program uses a generic linked list implementation that supports operations such as insertion, accessing elements, replacing values, and reversing the order of the list.
 
 ## Features
 
-- Create and manage linked list nodes
-- Insert elements
-- Remove elements
-- Search for values
-- Traverse the list
-- Display stored data
+- Insert elements into a linked list
+- Retrieve elements by position
+- Replace existing values
+- Display list contents
+- Reverse the linked list
+- Test list operations using a custom driver program
 
 ## Concepts Practiced
 
-- Data structures
 - Linked lists
-- Pointers
-- Dynamic memory allocation
-- Classes and objects
-- Memory management
+- Abstract Data Types (ADT)
+- Interfaces
+- Templates in C++
+- Dynamic memory
+- Object-oriented programming
+- Data structure operations
 
 ## Language
 
 C++
-
-## Purpose
-
-This project was developed as part of my Computer Science coursework at City College of San Francisco to practice implementing fundamental data structures.

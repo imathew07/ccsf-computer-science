@@ -1,29 +1,30 @@
-# Insertion Sort
+# Insertion Sort Analysis
 
-Implementation of the insertion sort algorithm written in C++.
+A C++ implementation of insertion sort with performance analysis through array access counting.
 
 ## Description
 
-This project implements the insertion sort algorithm to organize elements in an array by repeatedly inserting each element into its correct position.
+This project implements the insertion sort algorithm and measures its performance by counting the number of array accesses during sorting.
+
+The algorithm is tested using arrays of different sizes to observe how the number of operations changes as the input size increases.
 
 ## Features
 
-- Sort arrays using insertion sort
-- Compare and swap elements
-- Display sorted results
+- Implement insertion sort
+- Generate random arrays
+- Count array accesses
+- Test multiple input sizes
+- Analyze algorithm behavior
 
 ## Concepts Practiced
 
-- Sorting algorithms
+- Insertion sort algorithm
 - Arrays
-- Loops
 - Algorithm analysis
 - Time complexity
+- Performance measurement
+- Loops and iteration
 
 ## Language
 
 C++
-
-## Purpose
-
-This project was developed as part of my Computer Science coursework at City College of San Francisco to practice implementing and understanding fundamental sorting algorithms.

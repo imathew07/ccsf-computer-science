@@ -1,29 +1,29 @@
-# Recursion
+# Recursive String Reversal
 
-Implementation of recursive functions written in C++.
+A C++ program demonstrating recursive approaches for reversing strings.
 
 ## Description
 
-This project explores recursion by solving problems where functions call themselves to break down complex tasks into smaller subproblems.
+This project explores recursion by implementing two different recursive functions to process and reverse strings.
+
+The program demonstrates how the order of operations before and after a recursive call affects the final output.
 
 ## Features
 
-- Implement recursive functions
-- Solve problems using recursive approaches
-- Practice base cases and recursive calls
+- Reverse strings using recursion
+- Compare two recursive approaches
+- Demonstrate recursive call order
+- Work with string manipulation
 
 ## Concepts Practiced
 
 - Recursion
-- Functions
 - Base cases
-- Stack memory
-- Problem decomposition
+- Recursive calls
+- Call stack behavior
+- String operations
+- Problem solving
 
 ## Language
 
 C++
-
-## Purpose
-
-This project was developed as part of my Computer Science coursework at City College of San Francisco to practice recursive problem-solving techniques.
